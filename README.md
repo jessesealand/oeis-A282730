@@ -7,3 +7,6 @@ Reference: (https://oeis.org/A282730)
 
 (Placeholder)
 
+## Author
+
+* **Jesse C. Sealand** - [jessesealand](https://github.com/jessesealand)
